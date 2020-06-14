@@ -15,5 +15,6 @@ Working on a reading list for curriculum related to how technology perpetuates r
 The main list focuses on readings related to the internet, computation, and algorithms. Here are some other resources for related readings outside of that scope. 
 
 * [15+ Books by Black Scholars the Tech Industry Needs to Read Now](https://www.c2i2.ucla.edu/racial-justice-and-tech/) by Safiya Umoja Noble and Dr. Sarah T. Roberts
+* [Critical Race & Digital Studies Syllabus](https://criticalracedigitalstudies.com/syllabus/) - Edited & compiled by Lori Kido Lopez & Jackie Land
 
 To be continued...
